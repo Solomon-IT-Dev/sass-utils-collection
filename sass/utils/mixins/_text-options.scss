@@ -1,5 +1,4 @@
-// Here located mixins for text styles (size, weight, line-height, color, align)
-
+// * Here located mixins for text styles (size, weight, line-height, color, align)
 
 @mixin custom-text($f-size, $f-weight, $line-h, $color, $align ) { // Custom text options.
 	font-size: $f-size;
